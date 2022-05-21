@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1cb1953-c16e-439b-885c-6c2d4a3e377e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/btre_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btre/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btre/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btre/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btre/static/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btre/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btre/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/choices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/accounts/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/accounts/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/accounts/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/admin/base_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/listings/listing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/listings/listings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/listings/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_alerts.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23eN19F4Dm6eQn8uhCFjACKc7P8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1cb1953-c16e-439b-885c-6c2d4a3e377e" name="Default Changelist" comment="" />
+      <created>1642090375284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642090375284</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="0" key="SettingsEditor" timestamp="1645892322103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="104" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1645892322103" />
+    <state x="245" y="-1" width="874" height="1034" key="search.everywhere.popup" timestamp="1652541701576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="245" y="-1" width="874" height="1034" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1652541701576" />
+  </component>
+</project>

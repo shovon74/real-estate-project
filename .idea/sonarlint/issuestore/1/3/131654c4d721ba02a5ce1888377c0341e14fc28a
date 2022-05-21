@@ -1,0 +1,6 @@
+
+OWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(Îš¥þúÿÿÿÿ8Úöû­Ž0
+TWeb:TableWithoutCaptionCheck*" Add a description to this table.(¼ëùÏþÿÿÿÿ8Úöû­Ž0
+PWeb:AvoidCommentedOutCodeCheck-"Remove this commented out code.(Þ“–¬8áˆ—®Ž0
+n Web:TableHeaderHasIdOrScopeCheck/";Add either an 'id' or a 'scope' attribute to this <th> tag.(É“š¼8Úöû­Ž0
+UWeb:AvoidCommentedOutCodeCheck5"Remove this commented out code.(ÿ¦Ë‹øÿÿÿÿ8Ï©—®Ž0
